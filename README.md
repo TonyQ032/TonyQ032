@@ -8,7 +8,7 @@ In education, as in programming, an eagerness to learn new concepts is a require
 
 * 🌍  I'm based in Rialto, CA 
 * ✉️  You can contact me at [anthonyq032@gmail.com](mailto:anthonyq032@gmail.com) 
-* 🧠  I'm learning MongoDB, React, GraphQL
+* 🧠  I'm currently learning React and GraphQL
 
 ### Skills
 
