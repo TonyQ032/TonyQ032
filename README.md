@@ -7,7 +7,7 @@ I come from an education background with significant leadership experience. I've
 In education, as in programming, an eagerness to learn new concepts is a requirement. I am always excited to learn and apply new skills!  
 
 * 🌍  I'm based in Rialto, CA 
-* 🖥️  See my portfolio [here](https://tonyq032.github.io/Professional-Portfolio-V3/)
+* 🖥️  You can view my portfolio [here](https://tonyq032.github.io/Professional-Portfolio-V3/)
 * ✉️  You can contact me at [anthonyq032@gmail.com](mailto:anthonyq032@gmail.com) 
 * 🧠  I'm currently learning GraphQL
 
