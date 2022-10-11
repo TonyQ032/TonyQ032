@@ -9,7 +9,6 @@ In education, as in programming, an eagerness to learn new concepts is a require
 * 🌍  I'm based in Rialto, CA 
 * 🖥️  You can view my portfolio [here](https://tonyq032.github.io/Professional-Portfolio-V3/)
 * ✉️  You can contact me at [anthonyq032@gmail.com](mailto:anthonyq032@gmail.com) 
-* 🧠  I'm currently learning GraphQL
 
 ### Skills
 
