@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anthony Quinones 
 ========================================================================================================================================  
-Full-Stack Software Engineer / Educator
+Full Stack Software Engineer / Educator
 --------------------------------------- 
-I come from an education background with significant leadership experience. I've learned how to effectively manage large and small groups of people to achieve the tasks at hand. Whether they be lesson plans or programming project deadlines, my experience as an educator and my time in my coding bootcamp have prepared me for whatever is thrown my way. 
+I come from an education background with significant leadership experience. I've learned how to effectively manage and work in large and small groups of people to achieve the tasks at hand. Whether they be lesson plans or programming project deadlines, my experience as an educator and my time in my coding bootcamp have prepared me for whatever is thrown my way. 
 
 In education, as in programming, an eagerness to learn new concepts is a requirement. I am always excited to learn and apply new skills!  
 
