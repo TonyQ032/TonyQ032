@@ -6,8 +6,7 @@ I am a frontend web developer at Best Coast Pairings. I come from an education b
 
 In education, as in programming, an eagerness to learn new concepts is a requirement. I am always excited to learn and apply new skills!  
 
-* 🌍  I'm based in Rialto, CA 
-* 🖥️  You can view my portfolio [here](https://tonyq032.github.io/Professional-Portfolio-V3/)
+* 🌍  I'm based in Highland, CA 
 * ✉️  You can contact me at [anthonyq032@gmail.com](mailto:anthonyq032@gmail.com) 
 
 ### Skills
